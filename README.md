@@ -1,7 +1,7 @@
-<div align="center" href="" style="background-image: url('https://pic.longtao.fun/pics/24/8712160154167691113610916885165716016931_gopic_.gif'); background-size: cover; background-position: center; padding: 20px;">
-    <h3>Hi 👋, I'm <a href="">Vishal</a></h3>
+<div align="center" style="background-image: url('bg-rdr2.png'); background-size: cover; background-position: center; background-repeat: no-repeat; padding: 20px; text-align: center; height: 400px;">
+    <h3>Hi 👋, I'm <a href="#">Vishal</a></h3>
     <p align="center">
-        <a href="">
+        <a href="https://github.com/VishalBelwal?tab=repositories">
             <img src="cat.webp" width="50"/>
         </a>
     </p>
