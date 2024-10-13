@@ -1,34 +1,76 @@
-<div align="center" style="background-image: url('https://drive.google.com/uc?export=view&id=18q5r6Hzlu4OA7uuBPKaXhrqu2VcR2zXw'); height: 1000px; width: 1000px; background-size: cover; background-position: center; background-repeat: no-repeat; text-align: center;">
-    <h3>Hi 👋, I'm <a href="#">Vishal</a></h3>
-    <p align="center">
+<div align="center">
         <a href="https://github.com/VishalBelwal?tab=repositories">
-            <img src="cat.webp" width="50"/>
+            <img src="cat.webp" width="100"/>
         </a>
-    </p>
-    <p>🌟 Welcome to my corner of the coding universe! 🌟</p>
-    <h2 align="left">I code with</h2>
+</div>
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hey+fellas+👋,+I'm+Vishal+!;" />
+</div>
 
-###
+ ###  <p align="center">🌟 Welcome to my corner of the coding universe! 🌟<p/>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishalBelwal&theme=dark" alt="Vishal's Streak Stats" />
 </div>
+
+### Languages and Tools I Use 👨🏻‍💻
+
+<table align="center">
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Languages:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=js,ts,python,cpp,c"/></td>
+    </tr>
+      <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Frontend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=nextjs,react,tailwind,bootstrap,redux,jquery,html,css"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,flask,postman"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mongodb"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=git,github"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">IDEs:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,pycharm,visualstudio,replit"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=npm,bun,appwrite,notion,androidstudio"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">FreeLance:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=ae,pr,ps,canva"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=windows,macos"/></td>
+    </tr>
+</table>
+
+### 📫 How to reach me:
+<div align="center">
+
+[![Contact with me](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/_vishxll.27_/) 
+[![Contact with me](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vishal-belwal-35b8552a6) 
+[![Contact with me](https://skillicons.dev/icons?i=gmail)](mailto:vishalbelwal52@gmail.com)
+[![Contact with me](https://skillicons.dev/icons?i=github)](https://github.com/VishalBelwal)
+
 </div>
+
+</div>
+
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=VishalBelwal&icon=3&color=6)](https://visitcount.itsvg.in)
+
+</div>
+<a href="https://github.com/vibrantfix#gh-dark-mode-only">
+  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Header" width="100%" align="left"/>
+</a>
