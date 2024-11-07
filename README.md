@@ -9,9 +9,9 @@
 
  ###  <p align="center">🌟 Welcome to my corner of the coding universe! 🌟<p/>
 
-<div align="center">
+<!--<div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishalBelwal&theme=dark" alt="Vishal's Streak Stats" />
-</div>
+</div>-->
 
 ### Languages and Tools I Use 👨🏻‍💻
 
