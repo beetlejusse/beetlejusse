@@ -10,7 +10,7 @@
  ###  <p align="center">🌟 Welcome to my corner of the coding universe! 🌟<p/>
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishalBelwal&theme=dark" alt="Vishal's Streak Stats" />
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=VishalBelwal&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
 </div>
 
 ### Languages and Tools I Use 👨🏻‍💻
