@@ -57,7 +57,7 @@
 ### 📫 How to reach me:
 <div align="center">
 
-[![Contact with me](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/_vishxll.27_/) 
+[![Contact with me](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/mevisaal_/) 
 [![Contact with me](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vishal-belwal-35b8552a6) 
 [![Contact with me](https://skillicons.dev/icons?i=gmail)](mailto:vishalbelwal52@gmail.com)
 [![Contact with me](https://skillicons.dev/icons?i=github)](https://github.com/VishalBelwal)
