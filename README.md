@@ -71,6 +71,10 @@
 [![](https://visitcount.itsvg.in/api?id=VishalBelwal&icon=3&color=6)](https://visitcount.itsvg.in)
 
 </div>
-<a href="https://github.com/vibrantfix#gh-dark-mode-only">
+<!-- <a href="https://github.com/vibrantfix#gh-dark-mode-only">
   <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Header" width="100%" align="left"/>
-</a>
+</a> -->
+
+<div align="center">
+	
+[![](https://user-images.githubusercontent.com/110062591/199664030-9e8cb78a-e462-4368-995a-a792a1c0ed69.gif)](#)
