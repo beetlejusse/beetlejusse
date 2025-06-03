@@ -13,6 +13,8 @@
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=beetlejusse&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
 </div>
 
+### <div align="center">juss do "npx beetlejusee"</div>
+
 ### Languages and Tools I Use 👨🏻‍💻
 
 <table align="center">
