@@ -20,19 +20,23 @@
 <table align="center">
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Languages:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=js,ts,python,cpp,c"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=ts,js,python,cpp,c"/></td>
     </tr>
       <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=nextjs,react,tailwind,bootstrap,redux,jquery,html,css"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=nextjs,react,tailwind"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,flask,postman"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,postman,go"/></td>
+    </tr>
+	<tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Smart Contracts:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=solidity,rust"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mongodb"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mongodb,postgres"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
@@ -44,7 +48,7 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=npm,bun,appwrite,notion,androidstudio"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=npm,bun,appwrite,notion,androidstudio,expo"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">FreeLance:</td>
@@ -59,10 +63,9 @@
 ### 📫 How to reach me:
 <div align="center">
 
-[![Contact with me](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/mevisaal_/) 
-[![Contact with me](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vishal-belwal-35b8552a6) 
+[![Contact with me](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/vishaalll.zip/) 
+[![Contact with me](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vishalbelwal27) 
 [![Contact with me](https://skillicons.dev/icons?i=gmail)](mailto:vishalbelwal52@gmail.com)
-[![Contact with me](https://skillicons.dev/icons?i=github)](https://github.com/VishalBelwal)
 
 </div>
 
