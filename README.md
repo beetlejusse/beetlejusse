@@ -1,85 +1,8 @@
 <div align="center">
-        <a href="https://github.com/VishalBelwal?tab=repositories">
-            <img src="cat.webp" width="100"/>
-        </a>
+<!--     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hey+fellas+👋,+I'm+Vishal+!;" /> -->
+	<h1>hi, there juss do "npx beetlejusee"</h1>
 </div>
-<div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hey+fellas+👋,+I'm+Vishal+!;" />
-</div>
-
- ###  <p align="center">🌟 Welcome to my corner of the coding universe! 🌟<p/>
 
 <div align="center">
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=beetlejusse&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
 </div>
-
-### <div align="center">juss do "npx beetlejusee"</div>
-
-### Languages and Tools I Use 👨🏻‍💻
-
-<table align="center">
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Languages:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=ts,js,python,cpp,c"/></td>
-    </tr>
-      <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=nextjs,react,tailwind"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,postman,go"/></td>
-    </tr>
-	<tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Smart Contracts:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=solidity,rust"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mongodb,postgres"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=git,github"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">IDEs:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,pycharm,visualstudio,replit"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=npm,bun,appwrite,notion,androidstudio,expo"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">FreeLance:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=ae,pr,ps,canva"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=windows,linux"/></td>
-    </tr>
-</table>
-
-### 📫 How to reach me:
-<div align="center">
-
-[![Contact with me](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/vishaalll.zip/) 
-[![Contact with me](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vishalbelwal27) 
-[![Contact with me](https://skillicons.dev/icons?i=gmail)](mailto:vishalbelwal52@gmail.com)
-
-</div>
-
-</div>
-
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=VishalBelwal&icon=3&color=6)](https://visitcount.itsvg.in)
-
-</div>
-<!-- <a href="https://github.com/vibrantfix#gh-dark-mode-only">
-  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Header" width="100%" align="left"/>
-</a> -->
-
-<div align="center">
-	
-[![](https://user-images.githubusercontent.com/110062591/199664030-9e8cb78a-e462-4368-995a-a792a1c0ed69.gif)](#)
