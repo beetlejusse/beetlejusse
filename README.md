@@ -1,4 +1,4 @@
-# hi there👋, juss do "npx beetlejusee".
+# konnichiwa
 
 
 <div align="center">
